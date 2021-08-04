@@ -1,4 +1,4 @@
-# pgqdiff
+# pgqdif
 text/HTML quick diff protram used before/during upload to Project Gutenberg.
 It may be used standalone by cloning this repo locally. It is also
 part of the Uploader's Workbench (UWB) at Project Gutenberg.
